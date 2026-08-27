@@ -1,6 +1,6 @@
 # Hello, I'm Haris Zaeem 👋
 
-**Frontend Developer | Computer Science Student**  
+**Frontend Developer | Computer Science Student | Exploring AI**  
 💻 Passionate about building responsive web interfaces and practical software solutions.
 
 Technologies I Work With:
@@ -62,3 +62,12 @@ MongoDB | SQL
 
 Tools:
 Git | GitHub | VS Code
+
+
+## Connect With Me
+
+📧 Email: hariszaeem01@gmail.com
+
+---
+
+Always learning, building, and improving as a developer.

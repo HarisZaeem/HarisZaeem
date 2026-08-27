@@ -50,20 +50,6 @@ Point-of-sale system with inventory and billing features.
 ### 🌦️ Weather App
 React.js application with live weather API integration.
 
-## 🛠 Tech Stack
-Frontend:
-HTML | CSS | JavaScript | React.js | React Native
-
-Backend:
-Node.js | Express.js
-
-Database:
-MongoDB | SQL
-
-Tools:
-Git | GitHub | VS Code
-
-
 ## Connect With Me
 
 📧 Email: hariszaeem01@gmail.com

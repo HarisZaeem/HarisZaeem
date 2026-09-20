@@ -89,6 +89,8 @@ A role-based mobile marketplace connecting scrap sellers, collectors, and admins
 
 `React Native` `Node.js` `Express.js` `MongoDB Atlas` `Google Maps API` `Firebase FCM` `JWT Auth`
 
+---
+
 #### 🏋️ Fitaholic Fitness — Gym Website
 
 A multi-page fitness and gym website designed to provide users with workout guidance, diet plans, trainer information, and general fitness-related resources. The website offers dedicated sections for different fitness levels while giving users an easy way to explore workout routines, contact the gym, and provide feedback.
@@ -106,6 +108,7 @@ A multi-page fitness and gym website designed to provide users with workout guid
 
 `HTML5` `CSS3` `Web Forms` `Responsive Web Design`
 
+---
 
 #### 📹 Real-Time Video Calling Web App
 
@@ -125,6 +128,7 @@ A browser-based peer-to-peer video calling application that allows users to join
 
 `React.js` `Node.js` `Socket.IO` `WebRTC` `JavaScript` `React Router` `React Player`
 
+---
 
 #### 🛒 Super Store Management System — POS
 
@@ -142,6 +146,7 @@ A desktop-based Point of Sale and store management system designed to manage day
 
 `C#` `Windows Forms` `.NET Framework` `SQL Server` `ADO.NET` `Visual Studio`
 
+---
 
 #### 📹 Video Calling Web App
 
@@ -162,6 +167,7 @@ A real-time web-based video calling application that enables users to join virtu
 
 `React.js` `Node.js` `JavaScript` `WebRTC` `Socket.IO` `React Router` `React Player`
 
+---
 
 #### 🌤️ Weather App
 
@@ -178,6 +184,7 @@ A responsive web-based weather application that allows users to search for any c
 
 `React.js` `JavaScript` `Axios` `OpenWeatherMap API` `React Icons` `CSS`
 
+---
 
 #### 🧮 React Calculator
 
@@ -196,6 +203,7 @@ A simple and interactive web-based calculator built with React that allows users
 
 `React.js` `JavaScript` `HTML5` `CSS3` `React Hooks` `Create React App`
 
+---
 
 #### 🍔 Fast Food Management System
 
@@ -215,6 +223,7 @@ A console-based fast food ordering and management application developed in C# us
 
 `C#` `.NET 8` `Console Application` `Object-Oriented Programming` `LINQ` `Collections`
 
+---
 
 #### 🛍️ ShopEase — Online Shopping Website
 
@@ -232,6 +241,20 @@ A responsive front-end e-commerce website designed to provide users with a simpl
 * Clean navigation between major shopping website sections
 
 `HTML5` `CSS3` `JavaScript` `CSS Grid` `Flexbox` `Responsive Web Design`
+
+---
+
+
+### 📊 GitHub Stats
+
+<p align="Center">
+  <img height="165" src="https://raw.githubusercontent.com/HarisZaeem/HarisZaeem/main/profile/stats.svg" />
+  <img height="165" src="https://raw.githubusercontent.com/HarisZaeem/HarisZaeem/main/profile/top-langs.svg" />
+</p>
+
+<p align="Center">
+  <img src="https://streak-stats.demolab.com/?user=HarisZaeem&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
                                         Always learning, building, and improving as a developer
